@@ -1589,7 +1589,7 @@ var translations = {
 	"mbitMore.digitalValueMenu.High": "ligado"
 },
 	pt: pt,
-	"zh-Hant": {
+	"zh-tw": {
 	"mbitMore.name": "MicroBit More",
 	"mbitMore.whenButtonEvent": "按鈕當 [NAME] 被 [EVENT] 時",
 	"mbitMore.buttonIDMenu.a": "A",
