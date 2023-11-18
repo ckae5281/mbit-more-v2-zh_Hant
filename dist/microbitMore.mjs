@@ -37,7 +37,7 @@ var entry = {
   },
 
   extensionId: 'microbitMore',
-  extensionURL: 'https://microbit-more.github.io/dist/microbitMore.mjs',
+  extensionURL: 'https://ckae5281.github.io/mbit-more-v2-zh_Hant/dist/microbitMore.mjs',
   collaborator: 'Yengawa Lab',
   iconURL: img$4,
   insetIconURL: img$3,
