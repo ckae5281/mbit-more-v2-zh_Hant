@@ -4024,7 +4024,7 @@ var EXTENSION_ID = 'microbitMore';
  * @type {string}
  */
 
-var extensionURL = 'https://microbit-more.github.io/dist/microbitMore.mjs';
+var extensionURL = 'https://ckae5281.github.io/mbit-more-v2-zh_Hant/dist/microbitMore.mjs';
 /**
  * Enum for version of the hardware.
  * @readonly
